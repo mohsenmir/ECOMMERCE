@@ -38,4 +38,19 @@ export const categories = [
         img: "https://images.unsplash.com/photo-1627292441194-0280c19e74e4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         title: "کُت"
     },
+];
+
+export const popularProducts = [
+    {
+        id: 1,
+        img: "https://images.unsplash.com/photo-1626301706207-9d02ceac93bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        id: 2,
+        img: "https://images.unsplash.com/photo-1624972699570-81ce254b3141?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        id: 3,
+        img: "https://images.unsplash.com/photo-1608230164846-c8efbac7eeb3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
 ]
